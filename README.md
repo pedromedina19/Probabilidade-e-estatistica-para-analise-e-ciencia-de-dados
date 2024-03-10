@@ -4,7 +4,7 @@ Bibliotecas mais utilizadas: Numpy, Pandas, statistics, scipy, matplotlib, sklea
 
 Principais Conteúdos trabalhados:
 
-Técnicas de amostragem: amostragem simples, sistemática, estratificada, grupos e reservatório.
+Técnicas de amostragem: amostragem simples, sistemática, estratificada, grupos e reservatório.<br />
 Técnicas de amostragem para trabalhar com dados desbalanceados.
 Cálculo de percentuais, índices, coeficientes e taxas.
 Cálculo medidas de posição e disperção: média, moda, mediana, quartis, percentis.
