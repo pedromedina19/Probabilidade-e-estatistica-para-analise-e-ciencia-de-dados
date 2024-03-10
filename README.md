@@ -1,5 +1,5 @@
 # Probabilidade e estatística para análise e ciência de dados
- Repositório para estudo de técnicas de probabilidade e estatística para ciência de dados usando python 
+ Repositório para estudo de técnicas de probabilidade e estatística para análise e ciência de dados usando python 
 Bibliotecas mais utilizadas: Numpy, Pandas, statistics, scipy, matplotlib, sklearn ( train_test_split, naive_bayes, GaussianNB, LogisticRegression, RandomForestClassifier, LinearRegression ), Math, Keras
 
 Principais Conteúdos trabalhados:
