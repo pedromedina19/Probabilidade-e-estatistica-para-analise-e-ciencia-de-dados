@@ -103,7 +103,7 @@ sns.heatmap(cm, annot=True);
 from imblearn.under_sampling import TomekLinks
 
 tl = TomekLinks(sampling_strategy='majority')
-X_under, y_under = tl.fit_resample(X, y) #Atualizado 20/05/2022
+X_under, y_under = tl.fit_resample(X, y) 
 
 X_under.shape, y_under.shape
 
@@ -134,7 +134,7 @@ cm_u
 from imblearn.over_sampling import SMOTE
 
 smote = SMOTE(sampling_strategy='minority')
-X_over, y_over = smote.fit_resample(X, y) #Atualizado 20/05/2022
+X_over, y_over = smote.fit_resample(X, y) 
 
 X_over.shape, y_over.shape
 

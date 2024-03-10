@@ -180,7 +180,6 @@ accuracy_score(y, previsoes2)
 
 ## Seleção de atributos com ANOVA
 
-#from sklearn.feature_selection import f_classif -- atualizado 10/08/2021
 from sklearn.feature_selection import SelectFdr, f_classif
 
 selecao = SelectFdr(f_classif, alpha = 0.01)

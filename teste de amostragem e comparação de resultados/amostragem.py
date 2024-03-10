@@ -109,7 +109,7 @@ def amostragem_agrupamento(dataset, numero_grupos):
   dataset['grupo'] = grupos
   random.seed(1)
   #grupo_selecionado = random.randint(0, numero_grupos)
-  grupo_selecionado = random.randint(0, numero_grupos - 1) #Atualizado 16/10/2023
+  grupo_selecionado = random.randint(0, numero_grupos - 1) 
   return dataset[dataset['grupo'] == grupo_selecionado]
 
 len(dataset) / 325
